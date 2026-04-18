@@ -1,6 +1,6 @@
 async function loadHomePage() {
   try {
-    const response = await fetch("./home.json", { cache: "no-store" });
+    const response = await fetch("./data/home.json", { cache: "no-store" });
 
     if (!response.ok) {
       throw new Error(`Failed to load home.json: ${response.status}`);
