@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Velesari Holdings social preview</title>
+  <desc id="desc">Social preview card featuring institutional branding and commodity market focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b2017"/>
+      <stop offset="60%" stop-color="#123628"/>
+      <stop offset="100%" stop-color="#06130e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#f0ddb5"/>
+      <stop offset="45%" stop-color="#d2af6e"/>
+      <stop offset="100%" stop-color="#9f742f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="36" y="36" width="1128" height="558" rx="26" fill="none" stroke="#ccb07a" stroke-opacity="0.5"/>
+  <g opacity="0.2" stroke="#d2af6e" stroke-width="1">
+    <path d="M80 140h1040M80 220h1040M80 300h1040M80 380h1040M80 460h1040"/>
+    <path d="M160 80v470M320 80v470M480 80v470M640 80v470M800 80v470M960 80v470"/>
+  </g>
+
+  <g transform="translate(86 100)">
+    <rect width="170" height="170" rx="28" fill="#0b241a" stroke="url(#gold)" stroke-width="3"/>
+    <path d="M32 56h20l33 63 32-63h20l-42 78 42 49h-22l-30-35-30 35h-22l41-49z" fill="url(#gold)"/>
+  </g>
+
+  <g fill="#efe2c4" font-family="Inter, Arial, sans-serif">
+    <text x="300" y="170" font-size="63" font-weight="600" letter-spacing="3">VELESARI HOLDINGS</text>
+    <text x="300" y="230" font-size="27" letter-spacing="6" fill="#ddc79f">PRIVATE TRADING HOUSE</text>
+    <text x="88" y="360" font-size="36" font-weight="500">Proprietary commodity capital across Energy and Agriculture.</text>
+    <text x="88" y="420" font-size="31" fill="#d9c6a1">Secondary coverage across metals, logistics, infrastructure, and adjacent sectors.</text>
+  </g>
+
+  <path d="M88 500h1024" stroke="url(#gold)" stroke-width="2"/>
+  <text x="88" y="548" fill="#d7c29a" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="2">velesari.trade</text>
+</svg>

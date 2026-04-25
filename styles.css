@@ -23,7 +23,7 @@
   --radius-pill: 999px;
   --container: 1180px;
   --container-narrow: 860px;
-  --header-height: 84px;
+  --header-height: 112px;
   --space-2: 0.5rem;
   --space-3: 0.75rem;
   --space-4: 1rem;
@@ -194,9 +194,9 @@ ul { margin: 0; padding: 0; list-style: none; }
   border-bottom: 1px solid var(--line-0);
 }
 .site-header-inner, .site-footer-inner { width: min(100%, var(--container)); margin: 0 auto; }
-.site-header-inner { display: flex; align-items: center; justify-content: space-between; min-height: calc(var(--header-height) - 2rem); gap: var(--space-6); }
+.site-header-inner { display: flex; align-items: center; justify-content: space-between; min-height: calc(var(--header-height) - 1.5rem); gap: var(--space-6); }
 .brand { display: inline-flex; align-items: center; gap: var(--space-3); }
-.brand-mark { width: 48px; height: 48px; flex: 0 0 auto; }
+.brand-mark { width: 72px; height: 72px; flex: 0 0 auto; }
 .brand-wording { display: grid; gap: 3px; }
 .brand-text {
   color: var(--brand-2);
@@ -239,6 +239,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   border-top: 1px solid var(--line-0);
   background: linear-gradient(180deg, rgba(10, 37, 27, 0.4), rgba(10, 37, 27, 0));
 }
+.site-footer .brand-mark { width: 52px; height: 52px; }
 .footer-top { display: flex; justify-content: space-between; gap: var(--space-12); padding-bottom: var(--space-8); }
 .footer-brand { display: grid; gap: var(--space-4); max-width: 460px; }
 .footer-tagline { color: var(--text-2); font-size: var(--text-sm); }
@@ -267,6 +268,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   .card-grid-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 960px) {
+  :root { --header-height: 96px; }
   .section { padding: var(--space-16) var(--space-5); }
   .hero { padding-top: calc(var(--header-height) + var(--space-10)); }
   .hero-layout { grid-template-columns: 1fr; }
@@ -293,9 +295,10 @@ ul { margin: 0; padding: 0; list-style: none; }
   .footer-nav { grid-template-columns: 1fr 1fr; gap: var(--space-8); }
 }
 @media (max-width: 640px) {
-  :root { --header-height: 72px; }
+  :root { --header-height: 82px; }
   .section { padding: var(--space-12) var(--space-4); }
   .brand-wording { display: none; }
+  .brand-mark { width: 52px; height: 52px; }
   .section-head { margin-bottom: var(--space-8); }
   .section-title, .hero-title { max-width: none; }
   .hero-copy, .section-head { gap: var(--space-3); }
