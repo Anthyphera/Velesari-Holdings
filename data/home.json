@@ -1,128 +1,148 @@
 {
   "hero": {
-    "eyebrow": "Commodities \u2022 Strategies \u2022 Legacies",
+    "eyebrow": "Commodity Markets • Capital Stewardship",
     "title": "Velesari Holdings",
-    "subtitle": "Private investment holding company focused on commodities and enduring value.",
-    "body": "Velesari Holdings deploys disciplined capital across commodity ecosystems, blending strategic holdings, market execution, and long-horizon stewardship.",
+    "subtitle": "Private investment holding company focused on commodity-linked systems and long-term value creation.",
+    "body": "We allocate capital across commodity markets and adjacent infrastructure where structural constraints, disciplined risk management, and execution quality can produce durable outcomes.",
+    "inBrief": "In brief: Velesari Holdings LLC | United States | Commodity-focused investment and operating partnerships.",
     "actions": [
       {
-        "label": "See the Method",
-        "href": "#method",
+        "label": "View Capabilities",
+        "href": "#domains",
         "variant": "primary"
       },
       {
-        "label": "Contact Us",
-        "href": "mailto:tai@velesari.trade",
+        "label": "Contact the Firm",
+        "href": "./contact.html",
         "variant": "secondary"
       }
     ]
   },
-  "method": {
-    "eyebrow": "Approach",
-    "title": "Disciplined capital across real-asset cycles.",
-    "intro": "We reduce noise, test what persists across regimes, and allocate capital with defined risk.",
-    "steps": [
+  "domains": {
+    "eyebrow": "Capabilities",
+    "title": "What we cover",
+    "intro": "We evaluate and deploy capital across commodity value chains where market structure, supply constraints, and logistics dynamics are observable and testable.",
+    "items": [
       {
-        "title": "Reduce",
-        "body": "Distill complex commodity systems down to the governing variables."
+        "title": "Energy",
+        "body": "Exposure across physical and financial energy markets with emphasis on structure, liquidity, and supply-chain constraints."
       },
       {
-        "title": "Test",
-        "body": "Validate relationships across cycles, geographies, and market conditions."
+        "title": "Metals",
+        "body": "Industrial and precious metals opportunities shaped by policy, inventories, cost curves, and industrial demand."
       },
       {
-        "title": "Deploy",
-        "body": "Commit capital when structure is clear, risk is bounded, and upside is asymmetric."
+        "title": "Agriculture",
+        "body": "Commodity and logistics dynamics across food and feed chains, including weather and transport-linked risk factors."
+      },
+      {
+        "title": "Logistics",
+        "body": "Transport and storage bottlenecks where operational optionality and timing materially impact pricing."
+      },
+      {
+        "title": "Infrastructure",
+        "body": "Assets and partnerships that support long-term commodity movement and processing resilience."
       }
     ]
   },
   "revenue": {
-    "eyebrow": "Mandate",
-    "title": "How value is created",
-    "intro": "Capital allocation is concentrated where commodity structure and durable constraints align.",
+    "eyebrow": "Operating model",
+    "title": "How value is built",
+    "intro": "Our model combines market execution, strategic ownership, and selective partnerships with strict downside framing.",
     "pillars": [
       {
-        "title": "Trading",
-        "body": "Positioning across commodity markets where structure and pricing dislocations are clear."
+        "title": "Market Execution",
+        "body": "Positioning in commodity markets when pricing dislocations and structural asymmetry are identifiable."
       },
       {
-        "title": "Strategic Holdings",
-        "body": "Long-horizon ownership in assets and vehicles tied to commodity flows."
+        "title": "Strategic Ownership",
+        "body": "Long-horizon ownership in assets and vehicles tied to durable commodity demand and constrained supply."
       },
       {
-        "title": "Partnerships",
-        "body": "Selective partnerships where domain expertise and capital can accelerate durable outcomes."
+        "title": "Operating Partnerships",
+        "body": "Partnerships with domain specialists where aligned incentives and execution capacity improve long-term outcomes."
       }
     ]
   },
-  "domains": {
-    "eyebrow": "Focus",
-    "title": "Where we operate",
-    "intro": "Our work centers on commodity-linked systems and adjacent infrastructure.",
-    "items": [
+  "method": {
+    "eyebrow": "Risk framework",
+    "title": "How capital decisions are made",
+    "intro": "Every deployment follows a repeatable process: isolate drivers, test assumptions, define downside, and commit capital only when risk-adjusted return potential is clear.",
+    "steps": [
       {
-        "title": "Energy",
-        "body": "Physical and financial exposure across energy supply chains."
+        "title": "Isolate drivers",
+        "body": "Reduce complexity to governing variables that explain price behavior and regime sensitivity."
       },
       {
-        "title": "Metals",
-        "body": "Industrial and precious metals opportunities shaped by structural constraints."
+        "title": "Validate",
+        "body": "Test relationships across cycles, geographies, and policy environments before allocating capital."
       },
       {
-        "title": "Agriculture",
-        "body": "Market and logistics dynamics across food and feed value chains."
-      },
-      {
-        "title": "Logistics",
-        "body": "Transport and storage bottlenecks that drive pricing and optionality."
-      },
-      {
-        "title": "Infrastructure",
-        "body": "Assets and systems that underpin long-term commodity movement."
+        "title": "Execute with limits",
+        "body": "Deploy only with predefined risk parameters, clear invalidation levels, and monitoring discipline."
       }
     ]
   },
   "nameMeaning": {
     "eyebrow": "Leadership",
     "title": "Managing Director",
-    "body": "Tai Velesari serves as Managing Director of Velesari Holdings, overseeing investment strategy, risk discipline, and long-term capital stewardship."
+    "body": "Tai Velesari serves as Managing Director and oversees strategy, risk governance, and long-term capital allocation for Velesari Holdings."
   },
   "principles": {
-    "eyebrow": "Principles",
-    "title": "How we operate",
-    "intro": "The firm is guided by disciplined execution in commodity markets.",
+    "eyebrow": "Governance",
+    "title": "Operating standards",
+    "intro": "The firm is managed with explicit decision rights, documented assumptions, and review discipline.",
     "items": [
       {
-        "title": "Evidence-led",
-        "body": "Decisions are grounded in data, market structure, and observable constraints."
+        "title": "Evidence-based",
+        "body": "Investment decisions are based on observable market data and documented structural assumptions."
       },
       {
-        "title": "Risk-defined",
-        "body": "Downside is identified before capital is deployed."
+        "title": "Risk-first",
+        "body": "Downside scenarios and control thresholds are defined before capital is deployed."
       },
       {
-        "title": "Long-term",
-        "body": "We prioritize durability over short-lived narratives."
+        "title": "Counterparty discipline",
+        "body": "We prioritize counterparties and partners with clear alignment, operational reliability, and verifiable standards."
       },
       {
-        "title": "Selective",
-        "body": "We focus where conviction is highest and execution edge is real."
+        "title": "Long-duration thinking",
+        "body": "We optimize for durable performance rather than short-lived narratives or cyclical noise."
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "Institutional resources",
+    "title": "Updates and disclosures",
+    "intro": "Key firm information for partners, counterparties, and advisors.",
+    "items": [
+      {
+        "title": "Firm updates",
+        "body": "Current updates and commentary are published through the primary domain at velesari.trade."
+      },
+      {
+        "title": "Legal and privacy",
+        "body": "Terms, privacy notices, and disclosure materials are available in the Legal section."
+      },
+      {
+        "title": "Business inquiries",
+        "body": "Commercial, partnership, and compliance inquiries are routed through the dedicated contact page."
       }
     ]
   },
   "cta": {
     "eyebrow": "Velesari Holdings",
-    "title": "Contact",
-    "body": "Connect with Tai Velesari at tai@velesari.trade or visit velesari.trade. Office: 1001 Bishop St. Ste 2685A, Honolulu, HI 96813 US.",
+    "title": "Institutional contact",
+    "body": "For partnerships, diligence requests, and formal correspondence, contact the appropriate function at Velesari Holdings.",
     "actions": [
       {
-        "label": "Email Tai Velesari",
-        "href": "mailto:tai@velesari.trade",
+        "label": "Contact pathways",
+        "href": "./contact.html",
         "variant": "primary"
       },
       {
-        "label": "Visit Domain",
-        "href": "https://velesari.trade",
+        "label": "Legal disclosures",
+        "href": "./disclosures.html",
         "variant": "secondary"
       }
     ]
