@@ -2,17 +2,22 @@
   "hero": {
     "eyebrow": "Privately Held • Proprietary Capital",
     "title": "Velesari Holdings",
-    "subtitle": "Privately funded and privately held trading house focused on Energy and Agriculture.",
-    "body": "Velesari Holdings allocates proprietary capital across commodity-linked markets where market structure, logistics constraints, and disciplined underwriting support defensible risk-adjusted outcomes.",
-    "inBrief": "Private capital mandate: Energy systems and agricultural supply chains first, with secondary exposure to metals, logistics, infrastructure, and operating partnerships.",
+    "subtitle": "Private trading house and capital investment group focused primarily on Energy and Agriculture.",
+    "body": "Velesari Holdings allocates proprietary capital across commodity-linked systems where pricing is shaped by supply-demand balance, logistics friction, and counterparty quality.",
+    "inBrief": "Primary focus: energy systems and agricultural supply chains. Secondary coverage: metals, logistics, infrastructure, and operating partnerships.",
     "actions": [
       {
-        "label": "Review Market Focus",
-        "href": "#domains",
+        "label": "View Markets",
+        "href": "./domains.html",
         "variant": "primary"
       },
       {
-        "label": "Contact the Firm",
+        "label": "Read Strategy",
+        "href": "./method.html",
+        "variant": "secondary"
+      },
+      {
+        "label": "Contact",
         "href": "./contact.html",
         "variant": "secondary"
       }
@@ -20,133 +25,123 @@
   },
   "domains": {
     "eyebrow": "Market Focus",
-    "title": "Commodity-linked focus with primary concentration in Energy and Agriculture",
-    "intro": "The firm prioritizes markets where supply-demand balance, transport capacity, storage optionality, and counterparty reliability can be evaluated with operational rigor.",
+    "title": "Primary concentration with selective secondary coverage",
+    "intro": "The firm concentrates where physical market structure can be measured directly and where risk boundaries can be set before deployment.",
     "items": [
       {
-        "title": "Energy",
-        "body": "Primary focus across physical and financial energy systems where basis, inventory, transport, and policy regimes define opportunity sets.",
+        "title": "Energy (Primary)",
+        "body": "Coverage across power, fuel, and transport-linked systems where storage constraints and route optionality influence price behavior.",
         "tier": "primary"
       },
       {
-        "title": "Agriculture",
-        "body": "Primary focus across agricultural supply chains influenced by weather, land-use dynamics, processing capacity, and freight constraints.",
+        "title": "Agriculture (Primary)",
+        "body": "Coverage across agricultural supply chains where weather, crop cycles, processing throughput, and logistics determine imbalance risk.",
         "tier": "primary"
       },
       {
-        "title": "Metals",
-        "body": "Selective exposure to metals where inventory behavior, cost curves, and industrial demand provide clear market structure signals.",
-        "tier": "secondary"
-      },
-      {
-        "title": "Logistics",
-        "body": "Selective exposure to storage and transport bottlenecks that directly shape realized commodity pricing and timing.",
-        "tier": "secondary"
-      },
-      {
-        "title": "Infrastructure",
-        "body": "Selective exposure to infrastructure and operating partnerships tied to durable commodity throughput and system resilience.",
+        "title": "Secondary Sectors",
+        "body": "Selective focus in metals, logistics, infrastructure, and operating partnerships that alter commodity flow or execution quality.",
         "tier": "secondary"
       }
     ]
   },
   "revenue": {
     "eyebrow": "Operating Model",
-    "title": "Multiple execution channels under a single risk standard",
-    "intro": "Capital is deployed through complementary channels that align market execution with long-horizon ownership and operating alignment.",
+    "title": "Three deployment channels under one governance standard",
+    "intro": "Capital can be expressed through market positions, strategic ownership, and operating partnerships when terms and controls are explicit.",
     "pillars": [
       {
-        "title": "Market Execution",
-        "body": "Targeted physical and financial exposure when dislocations are supported by observable structural drivers."
+        "title": "Market Positions",
+        "body": "Exposure to commodity-linked dislocations supported by clear structure signals and pre-defined risk limits."
       },
       {
         "title": "Strategic Ownership",
-        "body": "Long-duration ownership where commodity-linked cash flow durability and downside definition are clear."
+        "body": "Longer-horizon ownership in assets or businesses tied to essential commodity throughput."
       },
       {
         "title": "Operating Partnerships",
-        "body": "Selective partnerships with operators where incentives, controls, and execution quality are verifiable."
+        "body": "Selective operating relationships where documentation, controls, and commercial alignment are verifiable."
       }
     ]
   },
   "method": {
-    "eyebrow": "Risk and Governance",
-    "title": "Discipline before deployment",
-    "intro": "Every position and partnership follows a defined sequence: structure analysis, downside framing, counterparty review, and continuous portfolio supervision.",
+    "eyebrow": "Decision Discipline",
+    "title": "Structured process from thesis to review",
+    "intro": "Every commitment passes through the same sequence: structure assessment, downside definition, counterparty review, and portfolio supervision.",
     "steps": [
       {
-        "title": "Downside Definition",
-        "body": "Invalidation levels, scenario paths, and capital-at-risk thresholds are established before execution."
+        "title": "Structure Assessment",
+        "body": "Thesis starts with supply-demand balance, inventory behavior, and physical bottlenecks."
       },
       {
-        "title": "Counterparty Discipline",
-        "body": "Commercial terms, documentation standards, and operational reliability are reviewed before commitment."
+        "title": "Risk Definition",
+        "body": "Position size, scenario range, and invalidation levels are set before execution."
       },
       {
-        "title": "Scenario Analysis",
-        "body": "Supply, demand, logistics, and policy assumptions are stress-tested across alternate market states."
+        "title": "Portfolio Supervision",
+        "body": "Open exposure is monitored against assumptions and adjusted as evidence changes."
+      }
+    ]
+  },
+  "principles": {
+    "eyebrow": "Institutional Standards",
+    "title": "Controls that shape allocation behavior",
+    "intro": "Controls are practical: they define how the firm sizes risk, selects counterparties, and reviews open exposure.",
+    "items": [
+      {
+        "title": "Counterparty Review",
+        "body": "Legal terms, operating readiness, and settlement reliability are screened before commitment."
+      },
+      {
+        "title": "Risk Limits",
+        "body": "Capital-at-risk thresholds and concentration boundaries are established ahead of execution."
+      },
+      {
+        "title": "Documentation First",
+        "body": "Commercial terms and responsibilities are codified to reduce ambiguity during execution."
+      },
+      {
+        "title": "Review Cadence",
+        "body": "Positions are reassessed with defined cadence rather than ad hoc interpretation."
       }
     ]
   },
   "nameMeaning": {
-    "eyebrow": "Private Capital Mandate",
-    "title": "Privately funded. Privately held. Long-horizon.",
-    "body": "Capital is proprietary, governance is internal, and deployment decisions follow long-horizon stewardship rather than external fundraising cycles."
-  },
-  "principles": {
-    "eyebrow": "Governance Standards",
-    "title": "Operating principles that govern capital decisions",
-    "intro": "Process discipline is treated as a strategic asset. The firm relies on explicit controls rather than narrative conviction.",
-    "items": [
-      {
-        "title": "Market Structure First",
-        "body": "Decisions prioritize observable market mechanics over thematic narratives."
-      },
-      {
-        "title": "Risk Governance",
-        "body": "Sizing, monitoring, and review cadence are defined before capital is deployed."
-      },
-      {
-        "title": "Portfolio Review",
-        "body": "Exposure is reviewed against assumptions, with adjustments based on evidence rather than bias."
-      },
-      {
-        "title": "Counterparty Reliability",
-        "body": "Partnerships are pursued selectively with emphasis on compliance posture and execution integrity."
-      }
-    ]
+    "eyebrow": "Ownership Structure",
+    "title": "Privately funded. Privately held.",
+    "body": "The capital base is internal, which allows allocation decisions to follow market evidence rather than external fundraising timelines."
   },
   "proof": {
-    "eyebrow": "Firm Information",
-    "title": "Governance, legal materials, and contact pathways",
-    "intro": "Core firm information for counterparties, advisors, and prospective operating partners.",
+    "eyebrow": "Next Steps",
+    "title": "Choose the section that matches your objective",
+    "intro": "Each page has a specific role to support faster orientation and practical follow-through.",
     "items": [
       {
-        "title": "Governance and disclosures",
-        "body": "Review disclosure statements, privacy notice, and terms governing use of firm materials."
+        "title": "About",
+        "body": "Firm identity, mandate, ownership posture, and leadership accountability."
       },
       {
-        "title": "Strategy and markets",
-        "body": "See strategy process and market focus documentation before initiating commercial outreach."
+        "title": "Strategy + Markets",
+        "body": "Decision framework and sector coverage with practical context for each focus area."
       },
       {
-        "title": "Formal correspondence",
-        "body": "Use dedicated channels for partnership, compliance, and registered office communication."
+        "title": "Governance + Contact",
+        "body": "Interpretive boundaries, legal notices, and direct correspondence channels."
       }
     ]
   },
   "cta": {
-    "eyebrow": "Contact",
-    "title": "Institutional inquiry channels",
-    "body": "For commercial dialogue, partnership diligence, legal notices, or registered office correspondence, contact the relevant function directly.",
+    "eyebrow": "Institutional Contact",
+    "title": "Start with the correct inquiry channel",
+    "body": "Use dedicated pathways for general correspondence, partnership outreach, and compliance notices.",
     "actions": [
       {
-        "label": "Contact Pathways",
+        "label": "Open Contact Page",
         "href": "./contact.html",
         "variant": "primary"
       },
       {
-        "label": "Governance Disclosures",
+        "label": "Read Governance",
         "href": "./disclosures.html",
         "variant": "secondary"
       }
