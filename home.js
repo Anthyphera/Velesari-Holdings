@@ -142,12 +142,12 @@ function isExternalLink(href) {
 }
 
 function renderHomePageError() {
-  setText("heroEyebrow", "Anthyphera");
+  setText("heroEyebrow", "Velesari Holdings");
   setText("heroTitle", "Home");
   setText("heroSubtitle", "Content unavailable");
   setText(
     "heroBody",
-    "Anthyphera content could not be loaded. Please try again later."
+    "Velesari Holdings content could not be loaded. Please try again later."
   );
 
   clearContainer("heroActions");

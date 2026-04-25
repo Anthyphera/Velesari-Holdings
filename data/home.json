@@ -1,128 +1,128 @@
 {
   "hero": {
-    "eyebrow": "Privately funded • Global • Systems-first",
-    "title": "Anthyphera",
-    "subtitle": "Find signal. Commit with discipline.",
-    "body": "Anthyphera is a trading and investment firm focused on complex systems. We isolate the drivers that persist, pressure-test assumptions, and deploy capital where structure is durable.",
+    "eyebrow": "Private holding company \u2022 Commodities-focused \u2022 Global",
+    "title": "Velesari Holdings",
+    "subtitle": "Private investment holding company focused on commodities.",
+    "body": "Velesari Holdings is a private investment holding company focused on commodities, deploying capital across durable supply, transport, and market opportunities.",
     "actions": [
       {
-        "label": "Explore the Method",
+        "label": "See the Method",
         "href": "#method",
         "variant": "primary"
       },
       {
-        "label": "See Focus Areas",
-        "href": "#domains",
+        "label": "Contact Us",
+        "href": "mailto:tai@velesari.trade",
         "variant": "secondary"
       }
     ]
   },
   "method": {
-    "eyebrow": "Method",
-    "title": "A single framework across markets.",
-    "intro": "We simplify, validate, and execute only when the underlying structure is measurable.",
+    "eyebrow": "Approach",
+    "title": "One discipline. Commodities first.",
+    "intro": "We reduce noise, test what persists across regimes, and allocate capital with defined risk.",
     "steps": [
       {
-        "title": "Distill",
-        "body": "Reduce noisy systems to the few relationships that actually drive outcomes."
+        "title": "Reduce",
+        "body": "Distill complex commodity systems down to the governing variables."
       },
       {
-        "title": "Validate",
-        "body": "Retain only patterns that remain reliable across regimes, regions, and time horizons."
+        "title": "Test",
+        "body": "Validate relationships across cycles, geographies, and market conditions."
       },
       {
-        "title": "Allocate",
-        "body": "Deploy capital when upside, downside, and invalidation criteria are explicitly defined."
+        "title": "Deploy",
+        "body": "Commit capital when structure is clear, risk is bounded, and upside is asymmetric."
       }
     ]
   },
   "revenue": {
-    "eyebrow": "Revenue",
-    "title": "How value is generated",
-    "intro": "Execution and capital allocation lead; research compounds edge in both.",
+    "eyebrow": "Mandate",
+    "title": "How value is created",
+    "intro": "Capital allocation is concentrated where commodity structure and durable constraints align.",
     "pillars": [
       {
         "title": "Trading",
-        "body": "We express views when structure, pricing, and timing align with favorable risk/reward."
+        "body": "Positioning across commodity markets where structure and pricing dislocations are clear."
       },
       {
-        "title": "Investing",
-        "body": "We back long-duration opportunities anchored in hard constraints and durable demand."
+        "title": "Strategic Holdings",
+        "body": "Long-horizon ownership in assets and vehicles tied to commodity flows."
       },
       {
-        "title": "Advisory",
-        "body": "We partner selectively where our process can materially improve strategic decisions."
+        "title": "Partnerships",
+        "body": "Selective partnerships where domain expertise and capital can accelerate durable outcomes."
       }
     ]
   },
   "domains": {
-    "eyebrow": "Domains",
-    "title": "Where the framework compounds",
-    "intro": "The context changes by field; the decision process does not.",
+    "eyebrow": "Focus",
+    "title": "Where we operate",
+    "intro": "Our work centers on commodity-linked systems and adjacent infrastructure.",
     "items": [
       {
-        "title": "Commodities",
-        "body": "Production, logistics, storage, and price formation across physical markets."
+        "title": "Energy",
+        "body": "Physical and financial exposure across energy supply chains."
       },
       {
-        "title": "Science",
-        "body": "Causal models, robust measurement, and repeatable empirical results."
+        "title": "Metals",
+        "body": "Industrial and precious metals opportunities shaped by structural constraints."
       },
       {
-        "title": "Philosophy",
-        "body": "Clear assumptions, rigorous logic, and durable conceptual frameworks."
+        "title": "Agriculture",
+        "body": "Market and logistics dynamics across food and feed value chains."
+      },
+      {
+        "title": "Logistics",
+        "body": "Transport and storage bottlenecks that drive pricing and optionality."
       },
       {
         "title": "Infrastructure",
-        "body": "Networks and assets shaped by engineering limits and policy design."
-      },
-      {
-        "title": "Frontier Fields",
-        "body": "Emerging sectors where uncertainty is high and market structure is still maturing."
+        "body": "Assets and systems that underpin long-term commodity movement."
       }
     ]
   },
   "nameMeaning": {
-    "eyebrow": "Name",
-    "title": "Why Anthyphera",
-    "body": "Anthyphera references iterative reduction: strip away what is non-essential until the governing proportion is visible. That principle guides how we form conviction, size risk, and compound capital."
+    "eyebrow": "Leadership",
+    "title": "Managing Director",
+    "body": "Tai Velesari serves as Managing Director of Velesari Holdings, overseeing investment strategy, risk discipline, and long-term capital stewardship."
   },
   "principles": {
     "eyebrow": "Principles",
-    "title": "Standards behind every decision",
-    "intro": "Our process is accountable to explicit operating rules.",
+    "title": "How we operate",
+    "intro": "The firm is guided by disciplined execution in commodity markets.",
     "items": [
       {
         "title": "Evidence-led",
-        "body": "Every material claim must be supported by observable data."
+        "body": "Decisions are grounded in data, market structure, and observable constraints."
       },
       {
-        "title": "Regime-robust",
-        "body": "We favor relationships that persist through volatility and structural change."
+        "title": "Risk-defined",
+        "body": "Downside is identified before capital is deployed."
       },
       {
-        "title": "Economical",
-        "body": "Additional complexity must improve decisions, not decorate them."
+        "title": "Long-term",
+        "body": "We prioritize durability over short-lived narratives."
       },
       {
-        "title": "Pre-defined risk",
-        "body": "Loss conditions are set in advance and enforced in execution."
+        "title": "Selective",
+        "body": "We focus where conviction is highest and execution edge is real."
       }
     ]
   },
   "cta": {
-    "eyebrow": "Anthyphera",
-    "title": "Designed to compound over time",
-    "body": "Performance funds deeper research. Better research sharpens judgment. The loop strengthens with repetition.",
+    "eyebrow": "Velesari Holdings",
+    "title": "Contact",
+    "body": "Email tai@velesari.trade or visit velesari.trade. Office: 1001 Biship St. Ste 2685A Honolulu, Honolulu County, HI 96813 US.",
     "actions": [
       {
-        "label": "Start a Conversation",
-        "href": "#",
+        "label": "Email Tai Velesari",
+        "href": "mailto:tai@velesari.trade",
         "variant": "primary"
       },
       {
-        "label": "Learn the Rationale",
-        "href": "#nameMeaning",
+        "label": "Visit Domain",
+        "href": "https://velesari.trade",
         "variant": "secondary"
       }
     ]
