@@ -1,17 +1,17 @@
 {
   "hero": {
-    "eyebrow": "Privately funded • Global • Method-led",
+    "eyebrow": "Privately funded • Global • Systems-first",
     "title": "Anthyphera",
-    "subtitle": "Reduce complexity. Back what holds.",
-    "body": "Anthyphera is a trading and investment firm. We study complex systems, test what stays stable across change, and put capital behind it.",
+    "subtitle": "Find signal. Commit with discipline.",
+    "body": "Anthyphera is a trading and investment firm focused on complex systems. We isolate the drivers that persist, pressure-test assumptions, and deploy capital where structure is durable.",
     "actions": [
       {
-        "label": "See the Method",
+        "label": "Explore the Method",
         "href": "#method",
         "variant": "primary"
       },
       {
-        "label": "View Domains",
+        "label": "See Focus Areas",
         "href": "#domains",
         "variant": "secondary"
       }
@@ -19,109 +19,109 @@
   },
   "method": {
     "eyebrow": "Method",
-    "title": "One process. Many fields.",
-    "intro": "We remove complexity, test persistence, and act only when the structure is clear.",
+    "title": "A single framework across markets.",
+    "intro": "We simplify, validate, and execute only when the underlying structure is measurable.",
     "steps": [
       {
-        "title": "Reduce",
-        "body": "Break complex systems down until the governing relationships can be seen."
+        "title": "Distill",
+        "body": "Reduce noisy systems to the few relationships that actually drive outcomes."
       },
       {
-        "title": "Test",
-        "body": "Keep only what remains stable across time, geography, and regime."
+        "title": "Validate",
+        "body": "Retain only patterns that remain reliable across regimes, regions, and time horizons."
       },
       {
-        "title": "Deploy",
-        "body": "Commit capital only when the evidence is clear and risk is defined."
+        "title": "Allocate",
+        "body": "Deploy capital when upside, downside, and invalidation criteria are explicitly defined."
       }
     ]
   },
   "revenue": {
     "eyebrow": "Revenue",
-    "title": "How revenue is made",
-    "intro": "Trading and capital allocation come first. Research exists to sharpen both.",
+    "title": "How value is generated",
+    "intro": "Execution and capital allocation lead; research compounds edge in both.",
     "pillars": [
       {
         "title": "Trading",
-        "body": "We take positions when structure, pricing, and movement align."
+        "body": "We express views when structure, pricing, and timing align with favorable risk/reward."
       },
       {
         "title": "Investing",
-        "body": "We allocate capital to long-horizon opportunities shaped by durable constraints."
+        "body": "We back long-duration opportunities anchored in hard constraints and durable demand."
       },
       {
         "title": "Advisory",
-        "body": "We work selectively where our method has direct commercial use."
+        "body": "We partner selectively where our process can materially improve strategic decisions."
       }
     ]
   },
   "domains": {
     "eyebrow": "Domains",
-    "title": "Where the work applies",
-    "intro": "The method stays constant even as the field changes.",
+    "title": "Where the framework compounds",
+    "intro": "The context changes by field; the decision process does not.",
     "items": [
       {
         "title": "Commodities",
-        "body": "Supply, transport, inventory, and pricing."
+        "body": "Production, logistics, storage, and price formation across physical markets."
       },
       {
         "title": "Science",
-        "body": "Causality, measurement, and reproducible structure."
+        "body": "Causal models, robust measurement, and repeatable empirical results."
       },
       {
         "title": "Philosophy",
-        "body": "Clear premises, valid reasoning, and durable frameworks."
+        "body": "Clear assumptions, rigorous logic, and durable conceptual frameworks."
       },
       {
         "title": "Infrastructure",
-        "body": "Systems shaped by physical and institutional constraint."
+        "body": "Networks and assets shaped by engineering limits and policy design."
       },
       {
         "title": "Frontier Fields",
-        "body": "New domains where complexity is high and structure is still forming."
+        "body": "Emerging sectors where uncertainty is high and market structure is still maturing."
       }
     ]
   },
   "nameMeaning": {
     "eyebrow": "Name",
     "title": "Why Anthyphera",
-    "body": "The name comes from repeated reduction: remove what is extraneous until the governing ratio appears. That same logic shapes how we study systems, build conviction, and commit capital."
+    "body": "Anthyphera references iterative reduction: strip away what is non-essential until the governing proportion is visible. That principle guides how we form conviction, size risk, and compound capital."
   },
   "principles": {
     "eyebrow": "Principles",
-    "title": "What keeps the work honest",
-    "intro": "The firm is defined by operating discipline.",
+    "title": "Standards behind every decision",
+    "intro": "Our process is accountable to explicit operating rules.",
     "items": [
       {
-        "title": "Empirical",
-        "body": "Claims must be grounded in evidence."
+        "title": "Evidence-led",
+        "body": "Every material claim must be supported by observable data."
       },
       {
-        "title": "Stable",
-        "body": "Relationships must hold across change."
+        "title": "Regime-robust",
+        "body": "We favor relationships that persist through volatility and structural change."
       },
       {
-        "title": "Simple",
-        "body": "Complexity is penalized unless it earns its place."
+        "title": "Economical",
+        "body": "Additional complexity must improve decisions, not decorate them."
       },
       {
-        "title": "Defined",
-        "body": "Failure conditions are stated before capital is deployed."
+        "title": "Pre-defined risk",
+        "body": "Loss conditions are set in advance and enforced in execution."
       }
     ]
   },
   "cta": {
     "eyebrow": "Anthyphera",
-    "title": "Built to compound",
-    "body": "Returns deepen research. Research improves judgment. The cycle tightens over time.",
+    "title": "Designed to compound over time",
+    "body": "Performance funds deeper research. Better research sharpens judgment. The loop strengthens with repetition.",
     "actions": [
       {
-        "label": "Get in Touch",
+        "label": "Start a Conversation",
         "href": "#",
         "variant": "primary"
       },
       {
-        "label": "Read More",
+        "label": "Learn the Rationale",
         "href": "#nameMeaning",
         "variant": "secondary"
       }
