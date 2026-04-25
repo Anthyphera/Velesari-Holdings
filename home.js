@@ -16,11 +16,12 @@ async function loadHomePage() {
 
 function renderHomePage(data) {
   renderHero(data.hero);
-  renderMethod(data.method);
-  renderRevenue(data.revenue);
   renderDomains(data.domains);
-  renderNameMeaning(data.nameMeaning);
+  renderRevenue(data.revenue);
+  renderMethod(data.method);
   renderPrinciples(data.principles);
+  renderNameMeaning(data.nameMeaning);
+  renderProof(data.proof);
   renderCta(data.cta);
 }
 
@@ -29,6 +30,7 @@ function renderHero(hero) {
   setText("heroTitle", hero.title);
   setText("heroSubtitle", hero.subtitle);
   setText("heroBody", hero.body);
+  setText("heroInBrief", hero.inBrief);
   renderActions("heroActions", hero.actions);
 }
 
@@ -64,6 +66,13 @@ function renderPrinciples(principles) {
   setText("principlesTitle", principles.title);
   setText("principlesIntro", principles.intro);
   renderCards("principlesList", principles.items);
+}
+
+function renderProof(proof) {
+  setText("proofEyebrow", proof.eyebrow);
+  setText("proofTitle", proof.title);
+  setText("proofIntro", proof.intro);
+  renderCards("proofGrid", proof.items);
 }
 
 function renderCta(cta) {
@@ -149,12 +158,14 @@ function renderHomePageError() {
     "heroBody",
     "Velesari Holdings content could not be loaded. Please try again later."
   );
+  setText("heroInBrief", "");
 
   clearContainer("heroActions");
-  clearContainer("methodSteps");
-  clearContainer("revenuePillars");
   clearContainer("domainGrid");
+  clearContainer("revenuePillars");
+  clearContainer("methodSteps");
   clearContainer("principlesList");
+  clearContainer("proofGrid");
   clearContainer("ctaActions");
 }
 
