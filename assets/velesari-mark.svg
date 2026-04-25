@@ -1,0 +1,20 @@
+<svg width="320" height="240" viewBox="0 0 320 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="markTitle">
+  <title id="markTitle">Velesari lotus crest</title>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F9EDB2"/>
+      <stop offset="0.45" stop-color="#D4B25A"/>
+      <stop offset="1" stop-color="#F4DB8D"/>
+    </linearGradient>
+    <radialGradient id="emerald" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 95) rotate(90) scale(155 185)">
+      <stop offset="0" stop-color="#0E6A43"/>
+      <stop offset="1" stop-color="#05281D"/>
+    </radialGradient>
+  </defs>
+  <path d="M160 184C100 170 62 143 36 101C74 80 117 81 160 98V184Z" fill="url(#emerald)" stroke="url(#gold)" stroke-width="5"/>
+  <path d="M160 184C220 170 258 143 284 101C246 80 203 81 160 98V184Z" fill="url(#emerald)" stroke="url(#gold)" stroke-width="5"/>
+  <path d="M160 176C111 134 102 84 160 38C218 84 209 134 160 176Z" fill="url(#emerald)" stroke="url(#gold)" stroke-width="5"/>
+  <path d="M160 190C112 209 73 205 32 179C64 142 112 139 160 154V190Z" fill="url(#emerald)" stroke="url(#gold)" stroke-width="5"/>
+  <path d="M160 190C208 209 247 205 288 179C256 142 208 139 160 154V190Z" fill="url(#emerald)" stroke="url(#gold)" stroke-width="5"/>
+  <text x="160" y="136" text-anchor="middle" fill="url(#gold)" font-size="78" font-family="Cinzel, 'Times New Roman', serif" font-weight="700" letter-spacing="2">VH</text>
+</svg>
