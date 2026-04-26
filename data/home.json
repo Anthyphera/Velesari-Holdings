@@ -2,9 +2,9 @@
   "hero": {
     "eyebrow": "Privately Held • Proprietary Capital",
     "title": "Velesari Holdings",
-    "subtitle": "Private trading house allocating internal capital in Energy and Agriculture.",
-    "body": "Velesari Holdings underwrites commodity-linked exposure where inventory, transport capacity, seasonal supply, and counterparty obligations can be tested before capital is committed.",
-    "inBrief": "Primary focus: energy systems and agricultural supply chains. Secondary review: metals, logistics, infrastructure, and operating partnerships when they affect physical flow or execution quality.",
+    "subtitle": "Private trading house allocating proprietary capital in Energy and Agriculture.",
+    "body": "Velesari Holdings underwrites commodity-linked exposure where inventory behavior, transport capacity, seasonal supply, and counterparty obligations can be tested before capital is committed.",
+    "inBrief": "Primary focus: energy systems and agricultural supply chains. Secondary review covers metals, logistics, infrastructure, and operating partnerships when they affect physical flow or execution quality.",
     "actions": [
       {
         "label": "View Markets",
@@ -26,7 +26,7 @@
   "domains": {
     "eyebrow": "Market Focus",
     "title": "Primary concentration with selective secondary coverage",
-    "intro": "The firm concentrates on markets with observable physical constraints, documented delivery pathways, and risk boundaries that can be set before deployment.",
+    "intro": "The firm concentrates on markets with observable physical constraints, documented delivery pathways, and risk boundaries that can be defined before deployment.",
     "items": [
       {
         "title": "Energy (Primary)",
@@ -47,19 +47,19 @@
   },
   "revenue": {
     "eyebrow": "Operating Model",
-    "title": "Three deployment channels under one governance standard",
+    "title": "Capital deployment channels",
     "intro": "Capital is deployed only where position terms, operating responsibilities, and control limits are defined in advance.",
     "pillars": [
       {
-        "title": "Market Positions",
+        "title": "Commodity-linked positions",
         "body": "Exposure to commodity-linked dislocations supported by documented structure signals and pre-defined loss limits."
       },
       {
-        "title": "Strategic Ownership",
+        "title": "Strategic ownership",
         "body": "Longer-horizon ownership in assets or businesses tied to recurring commodity throughput, access, or service capacity."
       },
       {
-        "title": "Operating Partnerships",
+        "title": "Operating partnerships",
         "body": "Selective operating relationships where documentation, control rights, commercial alignment, and execution roles are verifiable."
       }
     ]
@@ -67,7 +67,7 @@
   "method": {
     "eyebrow": "Decision Discipline",
     "title": "Structured process from thesis to review",
-    "intro": "Every commitment passes through the same sequence: structure assessment, downside definition, counterparty review, execution control, and portfolio supervision.",
+    "intro": "Every commitment follows the same sequence: structure assessment, downside definition, counterparty review, execution control, and portfolio supervision.",
     "steps": [
       {
         "title": "Structure Assessment",
@@ -79,7 +79,7 @@
       },
       {
         "title": "Portfolio Supervision",
-        "body": "Open exposure is monitored against assumptions and adjusted as evidence changes."
+        "body": "Open exposure is monitored against assumptions and adjusted when evidence changes."
       }
     ]
   },
@@ -113,27 +113,27 @@
   },
   "proof": {
     "eyebrow": "Next Steps",
-    "title": "Choose the section that matches your objective",
-    "intro": "Each page separates mandate, market focus, governance, and correspondence so counterparties can reach the right context quickly.",
+    "title": "Route by objective",
+    "intro": "The site separates mandate, market focus, governance, and correspondence so counterparties can reach the right context quickly.",
     "items": [
       {
         "title": "About",
         "body": "Firm identity, proprietary capital mandate, ownership posture, and leadership accountability."
       },
       {
-        "title": "Strategy + Markets",
+        "title": "Strategy and Markets",
         "body": "Decision sequence and sector coverage with the physical constraints that matter most in each focus area."
       },
       {
-        "title": "Governance + Contact",
-        "body": "Interpretive boundaries, legal notices, and direct channels for general, partnership, and compliance matters."
+        "title": "Governance and Contact",
+        "body": "Interpretive boundaries, legal notices, and direct channels for General inquiries, Partnerships, and Legal & Compliance matters."
       }
     ]
   },
   "cta": {
     "eyebrow": "Institutional Contact",
     "title": "Start with the correct inquiry channel",
-    "body": "Use dedicated pathways for general correspondence, partnership outreach, and compliance or legal notices.",
+    "body": "Use dedicated pathways for General inquiries, Partnerships, and Legal & Compliance notices.",
     "actions": [
       {
         "label": "Open Contact Page",
