@@ -92,7 +92,6 @@ function renderCards(containerId, items) {
   items.forEach((item) => {
     const article = document.createElement("article");
     article.className = getCardClassName(item);
-    article.setAttribute("role", "listitem");
 
     const title = document.createElement("h3");
     title.className = "card-title";

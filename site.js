@@ -22,6 +22,7 @@ async function initSite() {
   syncFooterYear();
   closeNavOnResize();
   closeNavOnLinkClick();
+  closeNavOnEscape();
 }
 
 async function mountPartial({ targetId, path }) {
@@ -94,6 +95,14 @@ function closeNavOnLinkClick() {
     const link = event.target.closest("#siteNav a");
     if (!link) return;
     closeNav();
+  });
+}
+
+function closeNavOnEscape() {
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      closeNav();
+    }
   });
 }
 
