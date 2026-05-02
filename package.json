@@ -1,0 +1,28 @@
+{
+  "name": "anthyphera",
+  "version": "1.0.0",
+  "description": "Static GitHub Pages website for Velesari Holdings, a privately funded and privately held private trading house using proprietary/internal capital with primary focus on Energy and Agriculture. Secondary review may include metals, logistics, infrastructure, and operating partnerships when those areas affect commodity movement, execution quality, or operating access.",
+  "main": "home.js",
+  "scripts": {
+    "qa:browser": "playwright test",
+    "qa:browser:headed": "playwright test --headed",
+    "qa:report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthyphera/Velesari-Holdings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Anthyphera/Velesari-Holdings/issues"
+  },
+  "homepage": "https://github.com/Anthyphera/Velesari-Holdings#readme",
+  "devDependencies": {
+    "@axe-core/playwright": "^4.11.3",
+    "@playwright/test": "^1.59.1",
+    "jsdom": "^29.1.1"
+  }
+}
