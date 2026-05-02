@@ -5,7 +5,7 @@ const pages = [
   { path: "/", name: "Root redirect" },
   { path: "/home.html", name: "Home" },
   { path: "/about.html", name: "About" },
-  { path: "/method.html", name: "Strategy" },
+  { path: "/method.html", name: "Services" },
   { path: "/domains.html", name: "Markets" },
   { path: "/disclosures.html", name: "Governance" },
   { path: "/contact.html", name: "Contact" },

@@ -4,12 +4,12 @@ This document defines how Velesari Holdings may later publish market-structure o
 
 ## Purpose
 
-Future insight content should demonstrate supply-chain literacy, market-structure awareness, and operational discipline while remaining educational and informational only. Content should help qualified readers understand how physical systems, documentation, timing, and risk controls affect commodity-linked decisions without implying advisory, brokerage, fund, performance, or transaction services.
+Future insight content should demonstrate commodity-market literacy, supply-chain awareness, and operational discipline while remaining educational and informational only. Content should help private clients, smaller commercial participants, commercial buyers, and operators understand how physical systems, documentation, timing, availability, and risk controls affect commodity-linked decisions without implying regulated-service, brokerage, fund, performance, or transaction services.
 
 ## Approved Future Categories
 
-1. Energy Systems Notes
-2. Agricultural Supply Chain Notes
+1. Energy Access Notes
+2. Agriculture Supply Notes
 3. Logistics & Infrastructure Briefs
 4. Governance & Risk Briefs
 
@@ -38,7 +38,7 @@ Future insight content must not include:
 - Investment advice
 - Performance claims
 - AUM references
-- Regulated advisory, brokerage, or fund implications
+- Regulated-service, brokerage, or fund implications
 - Counterparty names
 - Confidential transaction detail
 - Guaranteed outcomes
@@ -51,14 +51,14 @@ Future insight content must not include:
 
 Use restrained institutional commentary:
 
-- Market-structure analysis
-- Supply-chain literacy
-- Operational discipline
+- Practical market access context
+- Commodity-market literacy
+- Supply-chain awareness
 - Factual, dated, and source-checkable statements
 - Educational and informational framing
 - Clear separation between observation, risk consideration, and conclusion
 
-Avoid promotional language, market calls, pressure language, and claims that imply special access, transaction history, or guaranteed execution capability.
+Avoid promotional language, market calls, pressure language, and claims that imply special access, transaction history, institutional scale, or guaranteed execution capability.
 
 ## Review Workflow
 
@@ -66,7 +66,7 @@ Avoid promotional language, market calls, pressure language, and claims that imp
 - Legal and compliance review is recommended before publication.
 - Factual claims must be source-checkable.
 - Dated content should be periodically reviewed, updated, or archived.
-- Any claim about offices, operating footprint, counterparties, licenses, transaction history, or scale must be verified before publication.
+- Any claim about offices, operating footprint, counterparties, regulatory authorization, transaction history, or scale must be verified before publication.
 - If a note becomes stale or market conditions materially change, archive or update it rather than leaving it ambiguous.
 
 ## Disclosure Baseline

@@ -1,7 +1,7 @@
 {
   "name": "anthyphera",
   "version": "1.0.0",
-  "description": "Static GitHub Pages website for Velesari Holdings, a privately funded and privately held private trading house using proprietary/internal capital with primary focus on Energy and Agriculture. Secondary review may include metals, logistics, infrastructure, and operating partnerships when those areas affect commodity movement, execution quality, or operating access.",
+  "description": "Static GitHub Pages website for Velesari Holdings, a client-side commercial access and diligence firm focused on commodity-linked sectors.",
   "main": "home.js",
   "scripts": {
     "qa:browser": "playwright test",

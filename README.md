@@ -1,6 +1,8 @@
 # Velesari Holdings Website
 
-Static GitHub Pages website for Velesari Holdings, a privately funded and privately held private trading house using proprietary/internal capital with primary focus on Energy and Agriculture. Secondary review may include metals, logistics, infrastructure, and operating partnerships when those areas affect commodity movement, execution quality, or operating access.
+Static GitHub Pages website for Velesari Holdings, a privately held client-side commercial access and diligence firm focused on commodity-linked sectors. The public positioning is global, professional, and approachable: commercial access, transparent engagement scope, documentation readiness, and risk-aware review for clients underserved by traditional large-scale commodity institutions.
+
+Energy and Agriculture remain primary market areas. Secondary review may include metals, logistics, infrastructure, and operating partnerships when those areas affect commodity movement, availability, documentation, or operating access.
 
 This repository is intentionally simple: static HTML, shared partials, CSS, JavaScript, JSON content, and committed image assets. Do not introduce frameworks, build tools, generated site output, analytics, cookies, or tracking scripts without an explicit owner decision.
 
@@ -23,11 +25,11 @@ This repository is intentionally simple: static HTML, shared partials, CSS, Java
 
 ## Page List
 
-- `home.html`: orientation and top-level mandate.
-- `about.html`: firm identity, ownership posture, and relationship model.
-- `method.html`: decision discipline and review sequence.
-- `domains.html`: market focus, with Energy and Agriculture as primary sectors.
-- `disclosures.html`: governance standards and legal boundaries.
+- `home.html`: orientation, commercial access positioning, service paths, and market focus.
+- `about.html`: mission, market philosophy, audience, and responsible boundaries.
+- `method.html`: Services page covering commercial access mandates, counterparty or service-provider discovery, commercial diligence, professional coordination, and implementation support.
+- `domains.html`: Markets page, with Energy and Agriculture as primary sectors.
+- `disclosures.html`: governance standards, legal boundaries, and risk controls.
 - `contact.html`: categorized contact routing.
 - `terms.html`: website terms.
 - `privacy.html`: privacy notice.
@@ -40,7 +42,7 @@ This repository is intentionally simple: static HTML, shared partials, CSS, Java
 
 ## Homepage Content
 
-Visible homepage copy belongs in `data/home.json`. Keep `home.html` as a stable shell with the expected mount IDs. Do not reintroduce duplicated homepage content directly into `home.html` unless the rendering contract is intentionally changed.
+Visible homepage section content belongs in `data/home.json`, with core headings and introductory copy mirrored in `home.html` so the page has a coherent shell before JSON rendering completes. Keep the expected mount IDs stable unless the rendering contract is intentionally changed.
 
 ## Asset Rules
 
@@ -57,8 +59,11 @@ Visible homepage copy belongs in `data/home.json`. Keep `home.html` as a stable 
 - Do not display `tai@velesari.trade`.
 - Do not use domain-as-branding such as `VELESARI.TRADE` in visible marketing copy.
 - Use categorized contact channels only: General inquiries, Partnerships, and Legal & Compliance.
-- Keep identity language restrained: privately funded, privately held, private trading house, proprietary/internal capital.
-- Avoid unsupported claims about AUM, licenses, counterparties, regulated fund status, advisory services, brokerage services, trading volume, performance, transaction history, global offices, or guaranteed execution.
+- Keep identity language restrained: privately held, client-side commercial access and diligence firm, transparent engagement scope, documentation readiness, and risk-aware review.
+- Avoid unsupported claims about AUM, regulatory authorization, counterparties, regulated fund status, financial services, transaction services, trading volume, performance, transaction history, global offices, guaranteed access, or guaranteed execution.
+- Do not imply the company is a regulated financial institution, exchange, logistics operator, warehouse operator, or public reporting company unless that status is separately documented and approved.
+- Keep user-facing language accessible to private clients, smaller commercial participants, commercial buyers, operators, and businesses without sounding casual, promotional, or like financial advice.
+- Do not reference non-public professional credentials or imply custody, transaction placement, external fundraising, regulated onboarding, or regulated client-service programs in public site copy or repository-facing documentation.
 
 ## Font And Analytics Rules
 
@@ -72,9 +77,12 @@ Visible homepage copy belongs in `data/home.json`. Keep `home.html` as a stable 
 Run these checks before opening a pull request:
 
 ```bash
+npm run qa:browser
 git diff --check
 node --check site.js
 node --check home.js
+node --check playwright.config.js
+node --check tests/site.spec.js
 node -e "JSON.parse(require('fs').readFileSync('data/home.json','utf8')); console.log('JSON OK')"
 ```
 
@@ -86,6 +94,7 @@ Also verify:
 - No unintended binary files changed.
 - No prohibited public claims or contact details were introduced.
 - `header.html`, `footer.html`, and `data/home.json` load under a local static server.
+- Playwright and Axe browser QA pass across configured desktop and mobile projects.
 
 ## Post-Merge Live Verification
 

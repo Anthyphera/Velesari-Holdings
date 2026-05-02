@@ -1,148 +1,156 @@
 {
   "hero": {
-    "eyebrow": "Privately Held • Proprietary Capital",
+    "eyebrow": "Client-Side Commercial Access",
     "title": "Velesari Holdings",
-    "subtitle": "Private trading house allocating proprietary capital in Energy and Agriculture.",
-    "body": "Velesari Holdings underwrites commodity-linked exposure where inventory behavior, transport capacity, seasonal supply, and counterparty obligations can be tested before capital is committed.",
-    "inBrief": "Primary focus: energy systems and agricultural supply chains. Secondary review covers metals, logistics, infrastructure, and operating partnerships when they affect physical flow or execution quality.",
+    "subtitle": "Commercial access and diligence for commodity-linked sectors, with primary emphasis on Energy and Agriculture.",
+    "body": "Velesari Holdings helps clients map commodity-linked needs, review commercial pathways, and coordinate service relationships with documentation-ready, conflict-aware process.",
+    "inBrief": "Built for clients outside traditional large-scale commodity channels, with selective review across logistics, metals, infrastructure, and operating partnerships when they affect commercial access.",
     "actions": [
       {
-        "label": "View Markets",
-        "href": "./domains.html",
+        "label": "Explore Commercial Access",
+        "href": "./method.html",
         "variant": "primary"
       },
       {
-        "label": "Read Strategy",
-        "href": "./method.html",
+        "label": "View Markets",
+        "href": "./domains.html",
         "variant": "secondary"
       },
       {
-        "label": "Contact",
+        "label": "Discuss Your Needs",
         "href": "./contact.html",
         "variant": "secondary"
       }
     ]
   },
   "domains": {
-    "eyebrow": "Market Focus",
-    "title": "Primary concentration with selective secondary coverage",
-    "intro": "The firm concentrates on markets with observable physical constraints, documented delivery pathways, and risk boundaries that can be defined before deployment.",
+    "eyebrow": "The Access Gap",
+    "title": "Commodity-linked sectors are complex. Commercial access should be clearer.",
+    "intro": "Many commodity channels are built around large institutions, industrial buyers, or established desks. Velesari focuses on helping clients define commercial requirements, review documentation needs, and identify realistic service paths before time or budget is committed.",
     "items": [
       {
-        "title": "Energy (Primary)",
-        "body": "Coverage across power, fuel, and transport-linked systems where storage use, regional constraints, and delivery routes influence price behavior.",
+        "title": "Private clients",
+        "body": "Clear commercial context for commodity-linked needs, supply dynamics, and documentation questions without institutional gatekeeping or promotional shortcuts.",
         "tier": "primary"
       },
       {
-        "title": "Agriculture (Primary)",
-        "body": "Coverage across agricultural supply chains where weather, crop cycles, processing throughput, export timing, and freight capacity shape imbalance risk.",
+        "title": "Smaller commercial participants",
+        "body": "Client-side review for participants who need structure, risk framing, and realistic service-path options before evaluating a commodity-linked objective.",
         "tier": "primary"
       },
       {
-        "title": "Secondary Sectors",
-        "body": "Selective review of metals, logistics, infrastructure, and operating partnerships when they change commodity movement, access, or settlement reliability.",
+        "title": "Businesses and operators",
+        "body": "Support for commercial teams that need to understand supply, sourcing, logistics, or commodity cost exposure without relying on enterprise-scale infrastructure.",
         "tier": "secondary"
       }
     ]
   },
   "revenue": {
-    "eyebrow": "Operating Model",
-    "title": "Capital deployment channels",
-    "intro": "Capital is deployed only where position terms, operating responsibilities, and control limits are defined in advance.",
+    "eyebrow": "Services",
+    "title": "Client-side commercial access and diligence",
+    "intro": "The work starts with scope: what the client needs, which commercial path may fit, what documentation is ready, what risks are visible, and which professionals or service providers may need to be involved.",
     "pillars": [
       {
-        "title": "Commodity-linked positions",
-        "body": "Exposure to commodity-linked dislocations supported by documented structure signals and pre-defined loss limits."
+        "title": "Commercial access mandates",
+        "body": "Define the commodity-linked objective, eligibility considerations, required documentation, commercial stakeholders, and realistic service path."
       },
       {
-        "title": "Strategic ownership",
-        "body": "Longer-horizon ownership in assets or businesses tied to recurring commodity throughput, access, or service capacity."
+        "title": "Counterparty or service-provider discovery",
+        "body": "Identify categories of suppliers, operators, service providers, or professional reviewers appropriate for the inquiry without implying endorsement or placement."
       },
       {
-        "title": "Operating partnerships",
-        "body": "Selective operating relationships where documentation, control rights, commercial alignment, and execution roles are verifiable."
+        "title": "Commercial diligence",
+        "body": "Review role clarity, documentation readiness, practical constraints, cost drivers, and risk factors before a client relies on a pathway."
+      },
+      {
+        "title": "Professional coordination",
+        "body": "Coordinate with counsel, tax, accounting, logistics, technical, or compliance professionals when a request requires separate expertise."
+      },
+      {
+        "title": "Implementation support",
+        "body": "Support next-step organization, document readiness, and communication structure after scope, responsibilities, and limits are agreed."
       }
     ]
   },
   "method": {
-    "eyebrow": "Decision Discipline",
-    "title": "Structured process from thesis to review",
-    "intro": "Every commitment follows the same sequence: structure assessment, downside definition, counterparty review, execution control, and portfolio supervision.",
+    "eyebrow": "How It Works",
+    "title": "A measured path from need to next step",
+    "intro": "Commodity markets involve risk, availability constraints, and documentation requirements. The process is designed to make those realities visible before any service path, commercial discussion, or next step is considered.",
     "steps": [
       {
-        "title": "Structure Assessment",
-        "body": "Each thesis starts with supply-demand balance, inventory behavior, transport limits, and delivery optionality."
+        "title": "Understand the need",
+        "body": "Clarify the commodity category, timeline, participant profile, market knowledge, and practical objective."
       },
       {
-        "title": "Risk Definition",
-        "body": "Position size, scenario range, concentration, and invalidation levels are set before execution."
+        "title": "Map the market",
+        "body": "Review supply conditions, pricing drivers, documentation, logistics, and the boundaries that may limit access."
       },
       {
-        "title": "Portfolio Supervision",
-        "body": "Open exposure is monitored against assumptions and adjusted when evidence changes."
+        "title": "Define next steps",
+        "body": "Identify whether education, commercial review, partnership discussion, or no action is the responsible path."
       }
     ]
   },
   "principles": {
-    "eyebrow": "Institutional Standards",
-    "title": "Controls that shape allocation behavior",
-    "intro": "Controls define how the firm sizes risk, approves commercial relationships, documents terms, and reviews open exposure.",
+    "eyebrow": "Trust And Transparency",
+    "title": "Professional standards without institutional distance",
+    "intro": "The firm uses clear boundaries so clients understand what Velesari can discuss, what remains subject to review, and what should not be treated as a guaranteed outcome.",
     "items": [
       {
-        "title": "Counterparty Review",
-        "body": "Legal terms, operating readiness, and settlement reliability are screened before commitment."
+        "title": "Plain explanations",
+        "body": "Commodity concepts are translated into practical language while preserving market seriousness and risk awareness."
       },
       {
-        "title": "Risk Limits",
-        "body": "Capital-at-risk thresholds and concentration boundaries are established ahead of execution."
+        "title": "Responsible boundaries",
+        "body": "The site does not promise outcomes, pricing, supply, or access; every inquiry remains subject to review and scope."
       },
       {
-        "title": "Documentation First",
-        "body": "Commercial terms, responsibilities, and review triggers are codified to reduce ambiguity during execution."
+        "title": "Documented review",
+        "body": "Commercial conversations are framed around eligibility, available information, risk factors, and role clarity."
       },
       {
-        "title": "Review Cadence",
-        "body": "Positions are reassessed on a defined cadence and when market evidence moves outside the original thesis."
+        "title": "Human access",
+        "body": "Inquiries are routed to the right channel so people can ask direct questions instead of navigating institutional-first language."
       }
     ]
   },
   "nameMeaning": {
-    "eyebrow": "Ownership Structure",
-    "title": "Privately funded. Privately held.",
-    "body": "The capital base is internal, allowing allocation decisions to follow market evidence, risk limits, and operating diligence rather than external fundraising timelines."
+    "eyebrow": "Positioning",
+    "title": "Global perspective. Direct relationship.",
+    "body": "Velesari Holdings remains privately held and selective, but the public site is designed to make commercial access and diligence easier to understand for clients who are often left outside traditional institutional channels."
   },
   "proof": {
-    "eyebrow": "Next Steps",
-    "title": "Route by objective",
-    "intro": "The site separates mandate, market focus, governance, and correspondence so institutional visitors can reach the right context quickly.",
+    "eyebrow": "Market Focus",
+    "title": "Where practical access begins",
+    "intro": "Energy and Agriculture remain the primary areas of focus because they affect everyday cost, movement, supply availability, and business planning. Secondary review is considered when related sectors influence practical access.",
     "items": [
       {
-        "title": "About",
-        "body": "Firm identity, proprietary capital mandate, ownership posture, and leadership accountability."
+        "title": "Energy",
+        "body": "Power, fuel, transport-linked exposure, storage behavior, and regional constraints reviewed through a practical access lens."
       },
       {
-        "title": "Strategy and Markets",
-        "body": "Decision sequence and sector coverage with the physical constraints that matter most in each focus area."
+        "title": "Agriculture",
+        "body": "Crop cycles, processing, storage, freight, and food-linked supply chains explained in terms that connect market structure to real-world needs."
       },
       {
-        "title": "Governance and Contact",
-        "body": "Interpretive boundaries, legal notices, and direct channels for General inquiries, Partnerships, and Legal & Compliance matters."
+        "title": "Related sectors",
+        "body": "Logistics, metals, infrastructure, and operating partnerships reviewed when they shape movement, access, or cost exposure."
       }
     ]
   },
   "cta": {
-    "eyebrow": "Institutional Contact",
-    "title": "Start with the correct inquiry channel",
-    "body": "Use dedicated pathways for General inquiries, Partnerships, and Legal & Compliance notices.",
+    "eyebrow": "Start A Conversation",
+    "title": "Discuss your commodity need with a clearer starting point",
+    "body": "Share the market, material, or access question you are working through. Velesari will route the inquiry to the appropriate review path and respond within the limits of available services.",
     "actions": [
       {
-        "label": "Open Contact Page",
+        "label": "Discuss Your Needs",
         "href": "./contact.html",
         "variant": "primary"
       },
       {
-        "label": "Read Governance",
-        "href": "./disclosures.html",
+        "label": "Learn How It Works",
+        "href": "./method.html",
         "variant": "secondary"
       }
     ]
