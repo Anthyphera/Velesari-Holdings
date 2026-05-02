@@ -86,7 +86,7 @@
   "principles": {
     "eyebrow": "Institutional Standards",
     "title": "Controls that shape allocation behavior",
-    "intro": "Controls define how the firm sizes risk, approves counterparties, documents terms, and reviews open exposure.",
+    "intro": "Controls define how the firm sizes risk, approves commercial relationships, documents terms, and reviews open exposure.",
     "items": [
       {
         "title": "Counterparty Review",
@@ -114,7 +114,7 @@
   "proof": {
     "eyebrow": "Next Steps",
     "title": "Route by objective",
-    "intro": "The site separates mandate, market focus, governance, and correspondence so counterparties can reach the right context quickly.",
+    "intro": "The site separates mandate, market focus, governance, and correspondence so institutional visitors can reach the right context quickly.",
     "items": [
       {
         "title": "About",
